@@ -13,8 +13,6 @@
 
 :musical_note: [Music Production](https://www.youtube.com/channel/UCBjv0x-eWOwNzmv5EuLw29g)
 
-<p>「青空だけが見たいのは我儘ですか。」</p>
-
 </div>
 
 ---
