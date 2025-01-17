@@ -6,8 +6,6 @@
 <div align="left">
 :envelope: Contact annaz.li@mail.utoronto.ca
   
-:computer: [Personal Website](https://nana14.com)
-
 :tv: [BiliBili Page](https://space.bilibili.com/439465595)
 
 :musical_note: [Music Production](https://www.youtube.com/channel/UCBjv0x-eWOwNzmv5EuLw29g)
