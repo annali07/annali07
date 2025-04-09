@@ -37,7 +37,7 @@
 </div>
 
 
-<img width="44%" align ="left" src="life.jpg" />
+<img width="44%" align ="center" src="life.jpg" />
 
 
 
