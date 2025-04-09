@@ -38,9 +38,9 @@
 
 
 <img width="44%" align ="left" src="life.jpg" />
-
+/*
 <img width="44%" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annali07&theme=tokyonight" />
-
+*/
 
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annali07&theme=tokyonight" />
