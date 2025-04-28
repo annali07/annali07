@@ -4,7 +4,6 @@
 <img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=annali07&count_private=true&show_icons=true&theme=tokyonight" />
 
 <div align="left">
-:envelope: Contact annaz.li@mail.utoronto.ca
   
 :tv: [BiliBili Page](https://space.bilibili.com/439465595)
 
