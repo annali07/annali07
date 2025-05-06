@@ -8,14 +8,12 @@
 :tv: [BiliBili Page](https://space.bilibili.com/439465595)
 
 :musical_note: [Music Production](https://www.youtube.com/channel/UCBjv0x-eWOwNzmv5EuLw29g)
-<p>「青空だけが見たいのは我儘ですか。」</p>
+<p>「ただ夏の匂いに目を瞑りたい。</p>
+<p> &nbsp &nbsp いつまでも風に吹かれたい。</p>
+<p> &nbsp &nbsp 青空だけが見たいのは我儘ですか。」</p>
 
 </div>
 
----
-
-
-### Programming Language
 
 <div style="display: flex">
 
@@ -25,8 +23,6 @@
 
 <img src="https://img.shields.io/badge/javascript-yellow?&style=for-the-badge&logo=javascript&logoColor=white" style="margin-right: 0.25rem"/>
 
-<img src="https://img.shields.io/badge/go-blue?style=for-the-badge&logo=go&logoColor=white" style="margin-right: 0.25rem"/>
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="margin-right: 0.25rem"/>
 
 <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" style="margin-right: 0.25rem"/>
@@ -35,9 +31,11 @@
 
 </div>
 
+---
 
-<img width="44%" align ="center" src="life.jpg" />
 
-
+<p align="center">
+  <img width="50%" src="life.jpg">
+</p>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annali07&theme=tokyonight" />
