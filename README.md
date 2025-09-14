@@ -37,5 +37,3 @@
 <p align="center">
   <img width="50%" src="life.jpg">
 </p>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annali07&theme=tokyonight" />
