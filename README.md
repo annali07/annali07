@@ -17,7 +17,7 @@
 
 <div style="display: flex">
 
-<img src="https://img.shields.io/badge/-c++-red?style=for-the-badge&logo=cplusplus&logoColor=white" style="margin-right: 0.25rem"/>
+<img src="https://img.shields.io/badge/-c++-red?style=for-the-badge&logo=cplusplus&logoColor=black" style="margin-right: 0.25rem"/>
 
 <img src="https://img.shields.io/badge/python-blue?&style=for-the-badge&logo=python&logoColor=white" style="margin-right: 0.25rem"/>
 
