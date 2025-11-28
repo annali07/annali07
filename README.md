@@ -1,4 +1,4 @@
-# The sense of the world must lie outside the world.
+# 6.41 The sense of the world must lie outside the world.
 
 <img width="35%" align="left" src="https://images.genius.com/06ab8fe10519cd2effb60cb8e844a315.1000x1000x1.jpg" />
 
