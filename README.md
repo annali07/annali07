@@ -1,7 +1,8 @@
 # The sense of the world must lie outside the world.
 
+<img width="35%" align="left" src="https://images.genius.com/06ab8fe10519cd2effb60cb8e844a315.1000x1000x1.jpg" />
 
-<!--> <img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=annali07&count_private=true&show_icons=true&theme=tokyonight" />
+
 
 <div align="left">
   
@@ -12,9 +13,9 @@
 <p> &nbsp &nbsp いつまでも風に吹かれたい。</p>
 <p> &nbsp &nbsp 青空だけが見たいのは我儘ですか。」</p>
 
+---
+
 </div>
-
-
 <div style="display: flex">
 
 <img src="https://img.shields.io/badge/-c++-red?style=for-the-badge&logo=cplusplus&logoColor=black" style="margin-right: 0.25rem"/>
@@ -27,9 +28,6 @@
 
 </div>
 
----
 
 
-<p align="center">
-  <img width="50%" src="life.jpg">
-</p>
+
