@@ -1,7 +1,7 @@
 # The sense of the world must lie outside the world.
 
 
-<img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=annali07&count_private=true&show_icons=true&theme=tokyonight" />
+<!--> <img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=annali07&count_private=true&show_icons=true&theme=tokyonight" />
 
 <div align="left">
   
