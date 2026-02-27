@@ -1,6 +1,6 @@
 # 6.41 The sense of the world must lie outside the world.
 
-<img width="43%" align="left" src="https://images.genius.com/06ab8fe10519cd2effb60cb8e844a315.1000x1000x1.jpg" />
+<img width="45%" align="left" src="https://images.genius.com/06ab8fe10519cd2effb60cb8e844a315.1000x1000x1.jpg" />
 
 
 
@@ -18,13 +18,13 @@
 </div>
 <div style="display: flex">
 
-<img src="https://img.shields.io/badge/-c++-red?style=for-the-badge&logo=cplusplus&logoColor=white" style="margin-right: 0.25rem"/>
+<img src="https://img.shields.io/badge/-c++-0f0e33?style=for-the-badge&logo=cplusplus&logoColor=white" style="margin-right: 0.25rem"/>
 
-<img src="https://img.shields.io/badge/python-blue?&style=for-the-badge&logo=python&logoColor=white" style="margin-right: 0.25rem"/>
+<img src="https://img.shields.io/badge/python-0f0e33?&style=for-the-badge&logo=python&logoColor=white" style="margin-right: 0.25rem"/>
+<img src="https://img.shields.io/badge/rust-0f0e33.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/javascript-yellow?&style=for-the-badge&logo=javascript&logoColor=white" style="margin-right: 0.25rem"/>
+<img src="https://img.shields.io/badge/javascript-0f0e33?&style=for-the-badge&logo=javascript&logoColor=white" style="margin-right: 0.25rem"/>
 
-<img src="https://img.shields.io/badge/rust-d07f4f.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 
 </div>
 
