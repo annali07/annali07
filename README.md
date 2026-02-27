@@ -1,6 +1,6 @@
 # 6.41 The sense of the world must lie outside the world.
 
-<img width="35%" align="left" src="https://images.genius.com/06ab8fe10519cd2effb60cb8e844a315.1000x1000x1.jpg" />
+<img width="43%" align="left" src="https://images.genius.com/06ab8fe10519cd2effb60cb8e844a315.1000x1000x1.jpg" />
 
 
 
@@ -18,7 +18,7 @@
 </div>
 <div style="display: flex">
 
-<img src="https://img.shields.io/badge/-c++-red?style=for-the-badge&logo=cplusplus&logoColor=black" style="margin-right: 0.25rem"/>
+<img src="https://img.shields.io/badge/-c++-red?style=for-the-badge&logo=cplusplus&logoColor=white" style="margin-right: 0.25rem"/>
 
 <img src="https://img.shields.io/badge/python-blue?&style=for-the-badge&logo=python&logoColor=white" style="margin-right: 0.25rem"/>
 
@@ -28,6 +28,7 @@
 
 </div>
 
-
+### Visitor Count 
+<img src="https://count.getloli.com/@annali07" alt="annali07" />
 
 
